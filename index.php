@@ -49,7 +49,7 @@ include 'header.php';
                             <label for="opis" class="col-form-label">Opis</label>
                             <textarea required type="number" class="form-control" id="opis"></textarea>
                         </div>
-                        <button type="submit" class="btn btn-primary form-control">Sacuvaj</button>
+                        <button type="submit" class="btn btn-info form-control">Sacuvaj</button>
                     </form>
                 </div>
             </div>
@@ -61,15 +61,15 @@ include 'header.php';
 
         </div>
         <div class="col-10">
-            <h1 class="text-center">Proizvodi</h1>
+            <h1 class="text-center text-light">Proizvodi</h1>
         </div>
         <div class="col-1">
-            <button data-toggle="modal" data-target="#exampleModal" class="btn btn-primary width-100">Kreiraj</button>
+            <button data-toggle="modal" data-target="#exampleModal" class="btn btn-info width-100">Kreiraj</button>
         </div>
     </div>
 
     <table class="table table-light">
-        <thead>
+        <thead class="text-info">
             <th>ID</th>
             <th>Naziv</th>
             <th>Sifra</th>

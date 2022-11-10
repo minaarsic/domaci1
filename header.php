@@ -10,13 +10,14 @@
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
         integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
         crossorigin="anonymous"></script>
-    <title>Sistem za evidentiranje proizvoda</title>
+        <title >Sistem za evidentiranje proizvoda</title>
+        <link rel='stylesheet' type='text/css' href='css/style.php' />
 </head>
 
 
 <body> 
 
-<nav class="navbar navbar-expand-lg navbar-light sticky-top bg-light">
+<nav class="navbar navbar-expand-lg navbar-dark sticky-top bg-info">
         <a class="navbar-brand" href="index.php">Sistem za evidentiranje proizvoda </a>
         
         <div class="navbar-collapse collapse">
