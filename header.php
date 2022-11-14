@@ -11,14 +11,14 @@
         integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
         crossorigin="anonymous"></script>
         <title >Sistem za evidentiranje proizvoda</title>
-        <link rel='stylesheet' type='text/css' href='css/style.php' />
+        <link rel='stylesheet' type='text/css' href='css/style.css' />
 </head>
 
 
 <body> 
 
-<nav class="navbar navbar-expand-lg navbar-dark sticky-top bg-info">
-        <a class="navbar-brand" href="index.php">Sistem za evidentiranje proizvoda </a>
+ <nav class="navbar navbar-expand-lg navbar-dark sticky-top bg-dark">
+        <a class="navbar-brand" href="index.php">Sistem za evidentiranje proizvoda</span> </a>
         
         <div class="navbar-collapse collapse">
             <ul class="navbar-nav mx-auto">
@@ -30,5 +30,5 @@
                 </li>
             </ul>
         </div>
-    </nav>
+    </nav> 
   
